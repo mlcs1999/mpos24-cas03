@@ -1,0 +1,7 @@
+{
+  "name": "cas02-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
