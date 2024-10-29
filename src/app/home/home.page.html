@@ -37,10 +37,10 @@
       <ion-button fill="clear">Delete</ion-button>
     </ion-card>
   </ion-list>
-
-  <ion-fab horizontal="end" vertical="bottom">
-    <ion-fab-button (click)="goToAddPage()">
-      <ion-icon name="add"></ion-icon>
-    </ion-fab-button>
-  </ion-fab>
+  <ion-fab-button
+    style="position: fixed; bottom: 20px; right: 20px; z-index: 10"
+    (click)="goToAddPage()"
+  >
+    <ion-icon name="add"></ion-icon>
+  </ion-fab-button>
 </ion-content>
