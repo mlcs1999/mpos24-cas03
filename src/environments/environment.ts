@@ -4,12 +4,12 @@
 
 export const environment = {
   firebase: {
-    apiKey: "AIzaSyDsFtNqvnpGyRx7_tl0jDowAWUiU1UHQog",
-    authDomain: "vaska-test.firebaseapp.com",
-    projectId: "vaska-test",
-    storageBucket: "vaska-test.appspot.com",
-    messagingSenderId: "133024088630",
-    appId: "1:133024088630:web:0f85da12e60d1f95884e97"
+    apiKey: "AIzaSyD-JNTgBRavu4oauywhhXXTOk4pFgPjiz8",
+    authDomain: "mpos-cdc19.firebaseapp.com",
+    projectId: "mpos-cdc19",
+    storageBucket: "mpos-cdc19.appspot.com",
+    messagingSenderId: "756255119171",
+    appId: "1:756255119171:web:f68df625ccfe3d963841f6"
   },
   production: false
 };
